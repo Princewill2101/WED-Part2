@@ -138,11 +138,10 @@ EcoSavvy Living is a nonprofit organization dedicated to promoting sustainable l
 - SEO optimization
 - Performance enhancements
 
-## Installation and Setup
+## Link To My Repository
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ecosavvy-living.git
-
+https://github.com/Princewill2101/WED-Part2.git
 
 ## Project Structure
